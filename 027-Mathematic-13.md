@@ -126,7 +126,7 @@ $(x^{2}+2xy-y^{2})dx+(y^{2}+2xy-x^{2})dy=0, y|_{x=1}=1$
 
 $\frac{dy}{dx}=\frac{y^{2}-2xy-x^{2}}{y^{2}+2xy-x^{2}}=\frac{(\frac yx)^{2}-2\frac yx-1}{(\frac yx)^{2}+2\frac yx-1}$
 
-令$\frac yx=u, \therefore y=xu, \frac{dy}{dx}=u+x\frac{du}{dx}$
+令 $\frac yx=u, \therefore y=xu, \frac{dy}{dx}=u+x\frac{du}{dx}$
 
 $\therefore u+x\frac{du}{dx}=\frac{u^{2}-2u-1}{u^{2}+2u-1}$
 
