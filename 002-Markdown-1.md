@@ -273,13 +273,23 @@ $\grave{y}$|\$ \grave{y} \$
 $\dot{x}$|\$ \dot{x} \$
 $\ddot{x}$|\$ \ddot{x} \$
 
-### 17.为公式加注释
+### 17.分段函数
 
-使用 `\text{注释内容}`
+$$
+  f(x)=\begin{cases}
+    0 & \text{x is even} \\
+    1 & \text{x is odd}
+  \end{cases}
+$$
 
-$f(x)=\begin{cases}0,&\text{if x is even}\\\\1,&\text{if x is odd}\end{cases}$
-
-`$f(x)= \begin{cases} 0,& \text{if x is even} \\\\ 1, & \text{if x is odd} \end{cases}`$
+```
+$$
+  f(x)=\begin{cases}
+    0 & \text{x is even} \\
+    1 & \text{x is odd}
+  \end{cases}
+$$
+```
 
 ### 18.为公式加序号
 
