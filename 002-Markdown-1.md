@@ -452,6 +452,19 @@ $a \otimes b$|\$ a \otimes b \$
 -|-
 $\mathbb{R}$|\$ \mathbb{R} \$
 
+### 行列式
+
+$$
+\begin{vmatrix} 
+1 & 4 & 1 \\ 
+0 & -2 & 1 \\ 
+0 & 2 & 1 
+\end{vmatrix}
+$$
+
+$$\left|\begin{array}{c} 2 & 3 \\ 
+4 & 5 \end{array}\right|$$
+
 参考资料:
 <a href="https://blog.csdn.net/qq_38253837/article/details/109923758">Markdown 数学公式<a/>
 
