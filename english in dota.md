@@ -4241,7 +4241,7 @@ While Puck seems at first glance([ɡlɑːns]<vi>迅速的看一眼,扫视<n.>扫
 #### BatRider
 
 
-
+#### Shadow Demon
 
 
 ### Skills(技能)
@@ -4913,8 +4913,331 @@ All enemies affected by Dream Coil are attacked based on Puck's attack rate. The
 
 ![Sticky Napalm.png](https://s2.loli.net/2023/10/11/lKk1rfZEGvM3e2h.png)
 
+sticky [ˈstɪk.i] <adj.> 粘性的;(天气)闷热的;困难的,棘手的;持有异议的
 
+napalm [ˈneɪ.pɑːm] <n.>(炸弹中使用的)凝固汽油
 
+Ability: Point Target
+
+Damage Type: **Magical**
+
+Pierces Debuff Immunity: No
+
+Dispellable: Yes
+
+Drenches([drentʃ]<vt.>使淋湿;淋透,浇透) an area in sticky oil, amplifying damage from Batrider's attacks and abilities and slowing the movement speed and turn rate of enemies in the area. Additional casts of Sticky Napalm continue to increase damage, up to 10 stacks. Applies a small amount of damage with each casts.
+
+Damage Per Stack: 4/8/12/16
+
+Radius: 375
+
+Duration: 6s
+
+Movement Slow: 1.5%/3%/4.5%/6%
+
+Turn Rate Slow: 10%/30%/50%/70%
+
+Application Damage: 5/10/15/20
+
+Cast Range: 600
+
+mana cost: 25, cooldown: 3s
+
+> It's not uncommon to hear the Rider cackle([ˈkæk.əl]<vi> (鸡)咯咯叫;嘎嘎大笑) while he increases the flammability([ˌflæm.əˈbɪl.ə.ti]<n.>易燃性) of his opponents.
+
+##### FlameBreak
+
+![Flamebreak.png](https://s2.loli.net/2023/10/11/F7WyzNVeg5PHZ8L.png)
+
+Ability: Point Target
+
+Damage Type: **Magical**
+
+Pierces Debuff Immunity: No
+
+Dispellable: Yes
+
+Hurls([hɜːl]<vt.>(愤怒或用力的)抛,仍;大声辱骂) an explosive cocktail([ˈkɒk.teɪl]<n.>鸡尾酒(通常含酒精);(非常规的,危险的或令人兴奋的)混合物;(一般上在主菜之前的)冷盘) that explodes when it reaches the location, knocking back, slowing and dealing damage over time to enemies in the area.
+
+Impact Damage: 25/50/75/100
+
+Damage Per Second: 10/20/30/40
+
+Burn Duration: 5s
+
+Radius: 500
+
+KnockBack Distance: 250
+
+Movement Slow: 10%/15%/20%/25%
+
+mana cost: 110/115/120/125
+
+cooldown: 22/19/16/13
+
+> A molotov cocktail is the weapon of choice for Batrider.
+
+##### Firefly
+
+![Firefly.png](https://s2.loli.net/2023/10/11/1dw3FSto9iZ8Ucn.png)
+
+![Firefly_shipin_.png](https://s2.loli.net/2023/10/11/cfhwCtsy3F6JOu4.png)
+
+Ability: No Target
+
+Damage Type: **Magical**
+
+Pierces Debuff Immunity: No
+
+Dispellable: Cannot Be Dispelled
+
+Batrider takes to the skies, laying down a trail of flames from the air. The fire damages any enemies it touches, and destroys trees below Batrider.
+
+Damage Per Second: 30/60/90/120
+
+Radius: 200
+
+Duration: 15s
+
+mana cost: 100
+
+cooldown: 52/46/40/34
+
+> When an enemy escapes into the Yama Raskav Jungle, most would cut through the brush to find the fugitive([ˈfjuː.dʒə.tɪv]<n.>逃亡者,逃犯;难民 <adj.>(尤指想法或感觉)短暂的,暂时的;和难民(逃亡者)有关的). Batrider just chooses to destroy the jungle along with his foes.
+
+##### Flaming Lasso
+
+![Flaming Lasso.png](https://s2.loli.net/2023/10/11/F9qBk7Nf1exvWSP.png)
+
+flaming [ˈfleɪ.mɪŋ]<adj.> (尤用于强调愤怒)可恶的,讨厌的
+
+lasso [læsˈuː] <n.> 绳套,索套
+
+<vt.> (用绳套) 捕捉,套住
+
+Ability: Unit Target
+
+Affects: Enemy Units 
+
+Damage Type: **Magical**
+
+Pierces Debuff Immunity: **Yes**
+
+Dispellable: Strong Dispels Only
+
+Lassoes an enemy and drags them in Batrider's wake. Dragged units cannot move, attack, or use abilities. Teleporting or blinking will break the lasso.
+
+Duration: 2.25/2.75/3.25
+
+Total Damage: 100/200/300
+
+mana cost: 125/150/175
+
+cooldown: 90/75/60
+
+> Few dare to ask to ride on thee bat, as Batrider gives them free of charge.
+
+##### Talent Tree
+
+Level|left|right
+-|-|-
+25|FlameBreak applies 2 Sticky Napalm Stacks | +10 Sticky Napalm Damage
+20|2 FlameBreak Charges|+4.5s Firefly Duration
+15|-10s Flaming Lasso Cooldown|+20 Movement Speed
+10|+50 Flamebreak Knockback Distance|+50 Sticky Napalm Radius
+
+##### Aghanim's Scepter
+
+Flaming Lasso(Upgrade)
+
+Flaming Lasso grabs both its target, as well as the target's nearest allies hero within 650 units. The secondary target is tethered([ˈteð.ər]<n.>（尤指拴动物的）系绳;拴链<vt> 系;栓) to the first.
+
+##### Aghanim's Shard
+
+Sticky Napalm(Upgrade)
+
+Flaming Lasso no longer disarms you. Every other attack applies a stack of Sticky Napalm.
+
+#### Shadow Demon
+
+##### Disruption
+
+![Disruption.png](https://s2.loli.net/2023/10/15/dhXmWRCSANwysDB.png)
+
+Ability: Unit Target
+
+Affects: Heroes
+
+Pierces Debuff Immunity: No
+
+Dispellable: Cannot be dispelled
+
+Banishes([ˈbæn.ɪʃ]<n.>赶走;流放,放逐;把(某人)驱逐出境) the targeted unit from the battlefield for a short duration. Upon returning, two illusions of the banished unit are created under Shadow Demon's control.
+
+Banish Duration: 2.75s
+
+Illusion Duration: 11/12/13/14
+
+Illusion Damage: 30%/45%/60%/75%
+
+Illusion Damage Taken: 300%
+
+mana cost: 120
+
+cooldown: 26/24/22/20
+
+> The pain of deception comes not while it happens, but when it is revealed.
+
+##### Disseminate
+
+![Disseminate.png](https://s2.loli.net/2023/10/15/Vr6qTt3mNPwpZCe.png)
+
+disseminate [dɪˈsem.ɪ.neɪt]<vt.> 散步,传播,宣传
+
+Ability: Unit Target
+
+Affects: Units
+
+Pierces Debuff Immunity: No
+
+Whenever the target takes damage, all enemies, including the target itself if it is an enemy, within 675 range of the target also receive a portion of that damage. Can target enemy and allied units. Effect is paused if the target is hidden by Disruption.
+
+Duration: 6s
+
+Shared Damage: 20%/25%/30%/35%
+
+Cast Range: 700/800/900/1000
+
+mana cost: 120
+
+cooldown: 30/25/20/15
+
+##### Shadow Poison
+
+![Shadow Poison.png](https://s2.loli.net/2023/10/15/EQwpcRryZg465Ix.png)
+
+![Shadow Poison_shipin1_.png](https://s2.loli.net/2023/10/15/7Vfzl1YbphQ5Sq6.png)
+
+![Shadow Poison_shipin2_.png](https://s2.loli.net/2023/10/15/SthlsYkC6oKNmdO.png)
+
+Ability: Point Target
+
+Damage Type: **Magical**
+
+Pierces Debuff Immunity: No
+
+Dispellable: Cannot be dispelled
+
+Deals damage in a line, and afflicts([əˈflɪkt]<vt>使痛苦,使苦恼,折磨) enemy units with a poison effect. The poison deals 1/2/4/8/16 times the stack damage based on the number of stacks on the target, up to 5 stacks. Additional causes 50 damage each. This deferred([dɪˈfɜːr]<vt.>使延期,使延缓,推迟) damage is dealt when Shadow Demon's duration is expired([ɪkˈspaɪər]<vi.>到期,期满,结束;逝世,去世), or the Release sub-ability is used.
+
+Stack Damage: 24/36/48/60
+
+Max Stacks To Multiply: 5
+
+Radius: 200
+
+Hit Damage: 30/40/50/60
+
+Debuff Duration: 10s
+
+mana cost: 45, cooldown: 2.5s
+
+> The ever growing influence of the Shadow Demon can pollute the most valiant([ˈvæl.i.ənt]<adj.>英勇的,勇猛的) and pure of heroes. 
+
+##### Shadow Poison Release
+
+![Shadow Poison Release.png](https://s2.loli.net/2023/10/15/jgNVML73RY9aXve.png)
+
+![Shadow Poison Release_shipin1_.png](https://s2.loli.net/2023/10/15/sg7cOR6tSkFo9zn.png)
+
+![Shadow Poison Release_shipin2_.png](https://s2.loli.net/2023/10/15/o1hEwRpuB7vDUja.png)
+
+Ability: No Target
+
+Releases the poison to do damage on all affected enemies. Units under the effect of Disruption can still be affected by Shadow Poison.
+
+cooldown: 1s
+
+##### Demonic Purge
+
+![Demonic Purge.png](https://s2.loli.net/2023/10/15/zJRDoUb73m9utK1.png)
+
+purge [pɜːdʒ] <vt.> 清除,肃清(反对者); 使涤罪; 使洁净
+
+<n.> 清洗(从一个组织中清除持不同政见者的行动)
+
+Ability: Unit Target
+
+Affects: Enemy Units
+
+Damage Type: **Magical**
+
+Pierces Debuff Immunity: Yes
+
+Dispellable: Cannot be dispelled 
+
+Purges the the target enemy unit, removing positive buffs, and slowing the target for the duration. The unit slowly regains its speed until the end of the duration, upon which damage is dealt. Units under the effect of Disruption can still be affected by Demonic Purge.
+
+Dispel Type: Basic Dispel
+
+Purge Damage: 300/450/600
+
+Duration: 6s
+
+mana cost: 150/175/200
+
+cooldown: 60s
+
+> Once Shadow Demon no longer has any need for his collected cultist(a member of a cult: 邪教成员), he releases from its subservience([səbˈsɜː.vi.əns]<n.>恭顺,屈从;低声下气) - and its life
+
+##### Talent Tree
+
+Level|left|right
+-|-|-
+25|2 Charges of Disruption|-30s Demonic Purge cooldown
+20|+200 Demonic Purge/Cleanse Damage/Heal|+15% Disseminate Shared Damage
+15|-1s Shadow Poison Cooldown|+25 Movement Speed
+10|+12 Strength|+15% Shadow Poison Damage
+
+##### Aghanim's Shard
+
+Demonic Cleanse(New Ability)
+
+![Demonic Cleanse.png](https://s2.loli.net/2023/10/15/QIpk1KU6TjF2OD9.png)
+
+Ability: Unit Target
+
+Affects: Allied Units 
+
+Pierces Debuff Immunity: Yes
+
+Dispellable: Cannot be dispelled
+
+Cleanses the target allied unit, removing negative buffs for the duration. At the end of the duration, the unit is healed. Units under the effects of Disruption can still be affected by Demonic Cleanse.
+
+Dispel Type: Basic Dispel
+
+Cleanse Heal: 300/450/600
+
+Duration: 6s
+
+mana cost: 150/175/200
+
+##### Aghanim's Scepter
+
+Demonic Cleanse(Upgrade)
+
+Cooldown is removed, replaced with 2 charges that replenish every 60 seconds.
+
+Max Charges: 2
+
+Base Charge Restore Time: 60s
+
+Demonic Purge(Upgrade)
+
+Cooldown is removed, replaced with 2 charges that replenish every 60 seconds. Also causes Demonic Purge to break its target's passive abilities while active.
+
+#### 
 
 
 
